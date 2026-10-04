@@ -1,0 +1,7 @@
+# Tệp tin cấu hình bỏ qua các dữ liệu nhạy cảm và bảo mật
+credentials.txt
+
+# Bỏ qua các file cấu hình môi trường và logs
+*.env
+*.env.local
+*.log
